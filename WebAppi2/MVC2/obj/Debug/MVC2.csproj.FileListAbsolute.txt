@@ -1,0 +1,100 @@
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\ApplicationInsights.config
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\MVC2.dll.config
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\MVC2.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\MVC2.pdb
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Antlr3.Runtime.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.AI.Web.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.ApplicationInsights.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Newtonsoft.Json.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.Helpers.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.Mvc.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.Optimization.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.Razor.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.WebPages.Deployment.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.WebPages.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.WebPages.Razor.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\WebGrease.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.Helpers.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.Mvc.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.Optimization.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.Razor.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.WebPages.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.WebPages.Deployment.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Web.WebPages.Razor.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Antlr3.Runtime.pdb
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Newtonsoft.Json.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.ApplicationInsights.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\Microsoft.AI.Web.xml
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\es\System.Web.Helpers.resources.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\es\System.Web.Mvc.resources.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\es\System.Web.Optimization.resources.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\es\System.Web.Razor.resources.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\es\System.Web.WebPages.resources.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\obj\Debug\MVC2.csprojResolveAssemblyReference.cache
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\obj\Debug\MVC2.csproj.CoreCompileInputs.cache
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\obj\Debug\MVC2.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\obj\Debug\MVC2.pdb
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Net.Http.Formatting.dll
+c:\Users\Usuario\source\repos\WebAppi2\MVC2\bin\System.Net.Http.Formatting.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\ApplicationInsights.config
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\MVC2.dll.config
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\MVC2.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\MVC2.pdb
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Antlr3.Runtime.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.AI.Web.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Newtonsoft.Json.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Net.Http.Formatting.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.Helpers.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.Mvc.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.Optimization.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.Razor.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.WebPages.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\WebGrease.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Net.Http.Formatting.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.Helpers.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.Mvc.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.Optimization.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.Razor.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.WebPages.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Antlr3.Runtime.pdb
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Newtonsoft.Json.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\Microsoft.AI.Web.xml
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\es\System.Web.Razor.resources.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\obj\Debug\MVC2.dll
+C:\Users\Soft2-01\Documents\Visual Studio 2017\Projects\App1\CRUD\WebAppi2\MVC2\obj\Debug\MVC2.pdb
